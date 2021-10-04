@@ -1,0 +1,14 @@
+{
+  "name": "webultimadoblado-11-6-2020_715pm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Cuevas, Luis Robledo, Damián López",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,5 @@
+img.custom:hover,
+img.custom:focus {
+  transform: scale(1.4);
+  opacity: 0.85;
+}
